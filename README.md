@@ -8,8 +8,8 @@ I have 6+ years of production-ready ML systems. Over the last 2 years I have led
 ## Snapshot
 - Role: Senior ML Engineer
 - Domain: Pharmaceutical / Life Sciences
-- Experience: Sequential deep learning (time-series, RNNs/LSTMs/GRUs, transformers for sequences)
-- Primary frameworks: PyTorch, Optuna
+- Experience: Multimodal chat applications & Sequential deep learning (time-series, RNNs/LSTMs/GRUs, transformers for sequences)
+- Primary frameworks: Langchain, Langgraph, Chainlit, PyTorch, Optuna
 - Cloud: AWS, Azure
 - Current focus: GenAI apps and tooling (LangChain, Chainlit, FastAPI, Redis, Celery, etc.)
 
