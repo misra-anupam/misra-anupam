@@ -1,7 +1,7 @@
 ## Hi there 👋
 # I'm Anupam
 
-I have 5+ years of production-ready ML systems. Over the last 2 years I have led GenAI applications from prototype to delivery. I currently work in the pharmaceutical industry, bringing ML solutions from research prototypes to robust, auditable production deployments.
+I have 6+ years of production-ready ML systems. Over the last 2 years I have led GenAI applications from prototype to delivery. I currently work in the pharmaceutical industry, bringing ML solutions from research prototypes to robust, auditable production deployments.
 
 ---
 
