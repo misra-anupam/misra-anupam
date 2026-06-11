@@ -1,14 +1,14 @@
 ## Hi there 👋
 # I'm Anupam
 
-I have 6+ years of production-ready ML systems. Over the last 2 years I have led GenAI applications from prototype to delivery. I currently work in the pharmaceutical industry, bringing ML solutions from research prototypes to robust, auditable production deployments.
+Senior Machine Learning Engineer with 7+ years of experience building production-grade Agentic AI systems and large-scale MLOps pipelines — from architecting a multi-tenant LLM platform, to building distributed ML pipelines for 20M consumers and managing model lifecycles for 470 assets across 20+ industrial sites.
 
 ---
 
 ## Snapshot
-- Role: Senior ML Engineer
+- Role: Senior Machine Learning Engineer
 - Domain: Pharmaceutical / Life Sciences
-- Experience: Multimodal chat applications & Sequential deep learning (time-series, RNNs/LSTMs/GRUs, transformers for sequences)
+- Expertise: Multimodal chat applications & Distributed Sequential deep learning networks (time-series, RNNs/LSTMs/GRUs, transformers)
 - Primary frameworks: Langchain, Langgraph, Chainlit, PyTorch, Optuna
 - Cloud: AWS, Azure
 - Current focus: GenAI apps and tooling (LangChain, Chainlit, FastAPI, Redis, Celery, etc.)
@@ -28,26 +28,26 @@ I have 6+ years of production-ready ML systems. Over the last 2 years I have led
 - GenAI & LLM Tooling:
   - LangChain, LlamaIndex, Chainlit
   - OpenAI, Anthropic (APIs)
-  - Vector stores & similarity search: Pinecone, Weaviate, Milvus, Redis (Vector DB)
+  - Vector stores & similarity search: Pinecone, Qdrant, Redis
   - Embeddings: SentenceTransformers
+  - Tokenizers: tiktoken
 - Backend & App Frameworks:
   - FastAPI, Flask, Starlette
   - Celery, RabbitMQ, Redis (queues/background tasks)
   - Uvicorn / Gunicorn
-  - GraphQL (basic)
 - Data & Storage:
   - PostgreSQL, MySQL, MongoDB
   - S3 / Azure Blob Storage
-  - Parquet, Feather, streaming ingestion
+  - Parquet, streaming ingestion
 - Cloud & Infra:
   - AWS: S3, EC2, EKS, SageMaker (deployments), Lambda, IAM
   - Azure: Azure ML, AKS, Blob Storage
   - Docker, Kubernetes, Helm
   - CI/CD: GitHub Actions
 - Monitoring & Observability:
-  - Prometheus, Grafana, Sentry, MLflow, Weights & Biases
+  - Prometheus, Grafana, Loki, Promtail, MLflow
 - Testing & Quality:
-  - pytest, hypothesis
+  - pytest
 - Other useful tools:
   - MLFlow, MLServer, Streamlit, Redis Stack, Celery, Prefect, Kedro
 
